@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#A sample comment.
+
 set -e  # Exit immediately if a command exits with a non-zero status.
 
 for p in $(cat projects.conf); do
